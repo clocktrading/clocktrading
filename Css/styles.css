@@ -60,8 +60,8 @@ h6{
         top:50px;
       }
       .heading{
+        font-size: 1.5rem !important;
         margin-top: -10px !important;
-        font-size: 1.5rem;
   }
       .heading-text{
           display: none;
