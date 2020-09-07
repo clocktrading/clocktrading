@@ -25,6 +25,9 @@ body{
 h6{
     margin-top:20px ;
 }
+.text{
+    color: #7c7029;
+}
 
 .border-img{
     border-radius: 10px 10px 10px 10px;
@@ -41,7 +44,7 @@ h6{
       font-size: 30px;
   }
   .reg{
-      margin-top: 20px;
+      margin-top: 40px !important;
   }
 
 
@@ -56,6 +59,10 @@ h6{
         position:relative;
         top:50px;
       }
+      .heading{
+        font-size: 2rem !important;
+        margin-top: -10px !important;
+  }
       .heading-text{
           display: none;
       }
