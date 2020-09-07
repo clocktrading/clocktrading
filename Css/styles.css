@@ -52,7 +52,7 @@ h6{
   @media only screen and (max-width: 500px) {
     .jumbotron {
         background-image:url("../Images/bitcoin-159.jpg");
-        height:300px;
+        height:400px;
         background-size: cover;
       }
       .jumbotron .container {
@@ -61,7 +61,7 @@ h6{
       }
       .heading{
         margin-top: -10px !important;
-        font-size: 1rem;
+        font-size: 1.5rem;
   }
       .heading-text{
           display: none;
